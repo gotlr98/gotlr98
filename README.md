@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**gotlr98/gotlr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!>
-
 
 - 👋 Hi, I’m **@gotlr98**
 - 👀 I’m interested in ... <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
