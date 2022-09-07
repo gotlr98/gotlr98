@@ -9,3 +9,4 @@
 <img src="https://img.shields.io/badge/Solidity-4479A1?style=fflat-square&logo=Solidity&logoColor=white"/></a>
 - 📫 How to reach me ... [Haesik's_Notion_Page](https://www.notion.so/5642dfca5c7140118db3e4f636ce013e)
 <!-- - 💞️ I’m in ... <img src="https://img.shields.io/badge/LikeLion-FF9E2A?style=flat-square&logo=Notion&logoColor=white"/></a> -->
+[![Haesik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotlr98)](https://github.com/gotlr98/github-readme-stats)
