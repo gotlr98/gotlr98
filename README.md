@@ -14,5 +14,4 @@
 [![instagram](https://img.shields.io/badge/instagram-EC036A?style=fflat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/revolt_cool)](https://www.instagram.com/haesik_2/)
 
 <!-- - 💞️ I’m in ... <img src="https://img.shields.io/badge/LikeLion-FF9E2A?style=flat-square&logo=Notion&logoColor=white"/></a> -->
-[![Haesik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotlr98)](https://github.com/gotlr98/github-readme-stats)
-
+![Haesik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrkdmsdkdld&&show_icons=true&theme=dark)]
