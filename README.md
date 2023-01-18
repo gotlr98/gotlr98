@@ -14,6 +14,6 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=fflat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005255884099)](https://www.facebook.com/profile.php?id=100002822920777) 
 [![instagram](https://img.shields.io/badge/instagram-EC036A?style=fflat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/revolt_cool)](https://www.instagram.com/haesik_2/)
 
-<!-- - I’m in ... <img src="https://img.shields.io/badge/LikeLion-FF9E2A?style=flat-square&logo=Notion&logoColor=white"/></a> -->
+<!-- - I’m in .. <img src="https://img.shields.io/badge/LikeLion-FF9E2A?style=flat-square&logo=Notion&logoColor=white"/></a> -->
 ![Haesik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotlr98&&show_icons=true&theme=dark)
 
