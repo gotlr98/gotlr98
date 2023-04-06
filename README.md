@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=fflat-square&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-4479A1?style=fflat-square&logo=scikit-learn&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Solidity-4479A1?style=fflat-square&logo=Solidity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-4479A1?style=fflat-square&logo=Swift&logoColor=white"/></a>
 - 💻 I want to be <img src="https://img.shields.io/badge/iOS Developer-4479A1?style=fflat-square&logo=iOS&logoColor=white"/></a> or <img src="https://img.shields.io/badge/Back-End Engineer-4479A1?style=fflat-square&logo=Back-End Engineer&logoColor=white"/></a>
 - 📫 How to reach me ... 
