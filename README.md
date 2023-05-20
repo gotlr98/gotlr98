@@ -5,8 +5,6 @@
 <img src="https://img.shields.io/badge/IOS-3776AB?style=flat-square&logo=IOS&logoColor=white"/></a>
 - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=fflat-square&logo=PostgreSQL&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/Swift-4479A1?style=fflat-square&logo=Swift&logoColor=white"/></a>
 - 💻 I want to be <img src="https://img.shields.io/badge/iOS Developer-4479A1?style=fflat-square&logo=iOS&logoColor=white"/></a> 
 - 📫 How to reach me ... 
