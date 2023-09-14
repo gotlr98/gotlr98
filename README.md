@@ -33,6 +33,6 @@ Like Lion AI SCHOOL 6TH : 2022.05 ~ 2022.08
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoomi98%2Fhit-counter&count_bg=%23628EED&title_bg=%23555555&icon=&icon_color=%23C4B2B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## ✨ My Portfolio ✨
- <a href="[https://moomi98.github.io/my-intro-site/](https://www.notion.so/5642dfca5c7140118db3e4f636ce013e?pvs=4)https://www.notion.so/5642dfca5c7140118db3e4f636ce013e?pvs=4"><img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=#222222"></a> </a>
+ <a href="[https://moomi98.github.io/my-intro-site/](https://www.notion.so/5642dfca5c7140118db3e4f636ce013e?pvs=4)https://www.notion.so/5642dfca5c7140118db3e4f636ce013e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#222222"></a> </a>
 
 </div>
