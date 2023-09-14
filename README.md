@@ -16,7 +16,7 @@
 ------------------------------------
 ### 앱 배포
 
-<img src="https://user-images.githubusercontent.com/71820857/267261559-74bf17ce-0e0b-43b8-8ea8-826003d8d8bf.png" width: 100, height: 100/>
+<img src="https://user-images.githubusercontent.com/71820857/267261559-74bf17ce-0e0b-43b8-8ea8-826003d8d8bf.png" width= 100, height= 100/>
 OTTDiary 앱
 (https://apps.apple.com/kr/app/ottdiary/id6465794081)
 
