@@ -1,26 +1,34 @@
 
-- 👋 Hi, I’m **@gotlr98**
-- 👀 I’m interested in ... <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bitcoin-3776AB?style=flat-square&logo=Bitcoin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IOS-3776AB?style=flat-square&logo=IOS&logoColor=white"/></a>
-- 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-4479A1?style=fflat-square&logo=Swift&logoColor=white"/></a>
-- 💻 I want to be <img src="https://img.shields.io/badge/iOS Developer-4479A1?style=fflat-square&logo=iOS&logoColor=white"/></a> 
-- 📫 How to reach me ... 
-[![Notion Badge](https://img.shields.io/badge/Notion-1877f2?style=fflat-square&logo=Notion&logoColor=white&link=https://www.facebook.com/profile.php?id=100005255884099)](https://www.notion.so/5642dfca5c7140118db3e4f636ce013e)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=fflat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005255884099)](https://www.facebook.com/profile.php?id=100002822920777) 
-[![instagram](https://img.shields.io/badge/instagram-EC036A?style=fflat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/revolt_cool)](https://www.instagram.com/jg_ha_sk_/)
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=JangHaeSik&fontSize=50&descSize=30&rotate=5&animation=twinkling)
+  
+</div>
 
+<div align=center>
 
-------------------------------------
-### 앱 배포
+🖐 Hi there! I'm **iOS Developer** using Swift & SwiftUI. ✈
 
-<img src="https://user-images.githubusercontent.com/71820857/267261559-74bf17ce-0e0b-43b8-8ea8-826003d8d8bf.png" width= 100, height= 100/>
-OTTDiary 앱
-(https://apps.apple.com/kr/app/ottdiary/id6465794081)
+🔥 I hope to be a good Developer! 🔥  
 
+<h2 align="center">🛠Skills🛠</h1>
 
-<!-- - I’m in .. <img src="https://img.shields.io/badge/LikeLion-FF9E2A?style=flat-square&logo=Notion&logoColor=white"/></a> -->
-![Haesik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotlr98&&show_icons=true&theme=dark)
+<div align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></div>
+  
+ <h2 align="center">⚽️ Experience ⚽️</h1>
 
+iOS Learning : 2023.01 ~
+  
+Like Lion AI SCHOOL 6TH : 2022.05 ~ 2022.08
+
+---------------------
+
+![Haesik's github stats](https://github-readme-stats.vercel.app/api?username=gotlr98&show_icons=true&color=#B897FF)
+### 📩 Contact me 💨 gotlr98@naver.com 📩 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoomi98%2Fhit-counter&count_bg=%23628EED&title_bg=%23555555&icon=&icon_color=%23C4B2B2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## ✨ My Portfolio ✨
+ <a href="[https://moomi98.github.io/my-intro-site/](https://www.notion.so/5642dfca5c7140118db3e4f636ce013e?pvs=4)https://www.notion.so/5642dfca5c7140118db3e4f636ce013e?pvs=4"> </a>
+
+</div>
