@@ -17,7 +17,7 @@
   
  <h2 align="center">⚽️ Experience ⚽️</h1>
 
-<img src="https://user-images.githubusercontent.com/71820857/267261559-74bf17ce-0e0b-43b8-8ea8-826003d8d8bf.png" width=20, height=20>OTTDiary : 2023.06 ~ 2023.08 Release on App Store  <a href="https://apps.apple.com/kr/app/ottdiary/id6465794081">
+<img src="https://user-images.githubusercontent.com/71820857/267261559-74bf17ce-0e0b-43b8-8ea8-826003d8d8bf.png" width=20, height=20>OTTDiary : 2023.06 ~ 2023.08  Release on App Store  <a href="https://apps.apple.com/kr/app/ottdiary/id6465794081"><img src="https://img.shields.io/badge/App Store-0D96F6?style=for-the-badge&logo=App Store&logoColor=#222222"></a>
 
 iOS Learning : 2023.01 ~
   
