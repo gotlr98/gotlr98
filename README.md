@@ -12,11 +12,14 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=fflat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005255884099)](https://www.facebook.com/profile.php?id=100002822920777) 
 [![instagram](https://img.shields.io/badge/instagram-EC036A?style=fflat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/revolt_cool)](https://www.instagram.com/jg_ha_sk_/)
 
-### 앱 배포
-------------------------------------
 
+------------------------------------
+### 앱 배포
+
+<img src="https://user-images.githubusercontent.com/71820857/267261559-74bf17ce-0e0b-43b8-8ea8-826003d8d8bf.png"/>
 OTTDiary 앱
 (https://apps.apple.com/kr/app/ottdiary/id6465794081)
+
 
 <!-- - I’m in .. <img src="https://img.shields.io/badge/LikeLion-FF9E2A?style=flat-square&logo=Notion&logoColor=white"/></a> -->
 ![Haesik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotlr98&&show_icons=true&theme=dark)
