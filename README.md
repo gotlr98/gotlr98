@@ -28,6 +28,8 @@
 <img src="https://github.com/gotlr98/gotlr98/assets/71820857/e8f24d2c-115a-497e-a9cb-0590ef62fc82" width=20, height=20>맛짱 : 2024.04 ~ 2024.06  Release on App Store  <a href="https://apps.apple.com/us/app/%EB%A7%9B%EC%A7%B1/id6504390070"><img src="https://user-images.githubusercontent.com/71820857/267849782-27d8b6ae-13de-484d-89b4-3dc0f94b0d44.png" width=30 height=30></a>
 
 iOS Learning : 2023.01 ~
+
+Flutter Learning : 2024.01 ~
   
 Like Lion AI SCHOOL 6TH : 2022.05 ~ 2022.08
 
