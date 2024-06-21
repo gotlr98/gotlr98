@@ -7,7 +7,7 @@
 
 <div align=center>
 
-🖐 Hi there! I'm **iOS Developer** using Swift & SwiftUI. ✈
+🖐 Hi there! I'm **iOS Developer & Flutter Developer** using Swift & SwiftUI & Dart. ✈
 
 🔥 I hope to be a good Developer! 🔥  
 
